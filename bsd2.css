@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "1";
+  src: url(DoneDirect-7BVME.otf);
+}
+@font-face {
+  font-family: "2";
+  src: url(DesireesCoolDots-j9Z7.ttf);
+}
+@font-face {
+  font-family: "3";
+  src: url(MaggieIsDhfhddf-GZJy.ttf);
+}
+body {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: "3";
+  font-weight: 100;
+  font-size: 12px;
+  color: blueviolet;
+  text-shadow: 1px 1px 3px hotpink, -1px -3px 3px navy;
+}
+
+h1 {
+  text-align: center;
+  font-family: "1";
+  font-weight: 900;
+  font-size: 69px;
+  letter-spacing: -1px;
+  color: hotpink;
+  text-shadow: 1px 1px 1px hotpink, -1px -1px 5px #800080, 4px 4px 4px orange, -4px -4px 4px darkviolet;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Garamond";
+  color: darkorchid;
+  text-shadow: 1px 1px 3px darkblue, -1px -3px 3px navy;
+  font-size: 40px;
+}
+
+h3 {
+  text-align: center;
+  font-family: "2";
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: lightsalmon;
+  text-shadow: 2px 2px 5px navy, -1px 1px black;
+}
+
+h4 {
+  text-align: center;
+}
+
+sub {
+  text-align: center;
+}
+
+i {
+  text-align: center;
+  font-family: "1";
+  font-weight: 100;
+  font-size: 12px;
+  color: blueviolet;
+  text-shadow: 1px 1px 3px hotpink, -1px -3px 3px navy;
+}
+
+th {
+  text-align: center;
+  border: 10px groove rgb(227, 28, 121);
+  font-family: "1";
+  font-size: 24px;
+  color: teal;
+  text-shadow: 1px 1px 1px hotpink, -2px 2px 2px turquoise, 2px -2px 2px navy;
+}
+
+td {
+  text-align: center;
+  border: 10px groove rgb(227, 28, 121);
+  font-family: "2";
+  font-weight: 100;
+  letter-spacing: 3px;
+  color: lightsalmon;
+  text-shadow: 2px 2px 5px navy, -1px 1px black;
+}
+
+tr {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: inline-flex;
+  border-collapse: separate;
+  border: border 10px ridge rgb(128, 0, 128);
+}
+
+tbody {
+  text-align: center;
+  border: 10px groove rgb(128, 0, 128);
+}
+
+strong {
+  font-family: "2";
+  font-weight: 100;
+  font-size: 35px;
+  color: blueviolet;
+  text-shadow: 1px 1px 3px hotpink, -1px -3px 3px navy;
+}
+
+li {
+  font-family: "2";
+  font-weight: 100;
+  font-size: 35px;
+  color: blueviolet;
+  text-shadow: 1px 1px 3px hotpink, -1px -3px 3px navy;
+}/*# sourceMappingURL=bsd2.css.map */

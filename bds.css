@@ -1,0 +1,71 @@
+body,p,h1,h2,h3,h4,sub,i,th,td,tr,table,tbody
+{text-align: center;}
+
+table
+{text-align:center;
+align-items:center;
+justify-content:center;
+display:inline-flex;
+border-collapse: separate;
+border:border 10px ridge rgba(128,0,128,1); }
+tbody
+{border:10px groove rgba(128,0,128,1); }
+th,td
+{border:10px groove rgba(227,28,121,1); }
+@font-face
+{font-family:"1";
+src:url(DoneDirect-7BVME.otf);
+}
+th
+{font-family:"1";
+    font-size:24px;
+    color:teal;
+    text-shadow:1px 1px 1px hotpink, -2px 2px 2px turquoise, 2px -2px 2px navy;}
+@font-face
+{font-family:"2";
+src:url(DesireesCoolDots-j9Z7.ttf);}
+td{font-family:"2";
+font-weight:100;
+letter-spacing:3px;
+color:lightsalmon;
+text-shadow:2px 2px 5px navy, -1px 1px black;}
+h1
+{font-family:"1";
+font-weight:900;
+font-size:69px;
+letter-spacing:-1px;
+color:hotpink;
+text-shadow:1px 1px 1px hotpink, -1px -1px 5px #800080, 4px 4px 4px orange, -4px -4px 4px darkviolet;}
+h3
+{font-family:"2";
+    font-size:25px;
+    font-weight:500;
+    letter-spacing:3px;
+    color:lightsalmon;
+    text-shadow:2px 2px 5px navy, -1px 1px black;}
+    @font-face
+    {font-family:"3";
+    src:url(MaggieIsDhfhddf-GZJy.ttf);}
+    p
+    {font-family:"3";
+    font-weight:100;
+font-size:12px;
+color:blueviolet;
+text-shadow:1px 1px 3px hotpink, -1px -3px 3px navy;}
+i
+{font-family:"1";
+    font-weight:100;
+font-size:12px;
+color:blueviolet;
+text-shadow:1px 1px 3px hotpink, -1px -3px 3px navy;}
+strong,li
+{font-family:"2";
+    font-weight:100;
+font-size:35px;
+color:blueviolet;
+text-shadow:1px 1px 3px hotpink, -1px -3px 3px navy;}
+h2
+{font-family:"Garamond";
+    color:darkorchid;
+    text-shadow:1px 1px 3px darkblue, -1px -3px 3px navy;
+font-size:40px;}
