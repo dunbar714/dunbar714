@@ -1,7 +1,7 @@
 #  👋 Hi, I’m @dunbar714
-# 👀 I’m interested in the world, finidng a reason to be alive
-#  🌱 I’m currently learning idk html, css, trying and failing to do things like javascript
--💞️ I’m looking to collaborate on Not being quite so stupid....
+## 👀 I’m interested in the world, finidng a reason to be alive
+###  🌱 I’m currently learning idk html, css, trying and failing to do things like javascript
+#### 💞️ I’m looking to collaborate on Not being quite so stupid....
 - 📫 How to reach me ...
 
 <!---
