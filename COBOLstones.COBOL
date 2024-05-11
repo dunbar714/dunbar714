@@ -37,4 +37,5 @@ IDENTIFICATION DIVISION.
            DISPLAY F
            DISPLAY G
            STOP RUN.
+       *IS THIS PROPER FOR COMMENT*
 
