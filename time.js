@@ -5,7 +5,7 @@ const Hour = 60
 const LunchBreak = .5
 const twelevehourtime = 12
 const shiftStart = 9
-
+/* Extremely basic math in JS to deteremine alloted time for housekeeping at hotel, trying different languages to learn simple syntax */
 let a = DeparTimE * 27
 let b = StayOverTime * 7
 let c = a + b
