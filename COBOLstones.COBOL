@@ -37,5 +37,6 @@ IDENTIFICATION DIVISION.
            DISPLAY F
            DISPLAY G
            STOP RUN.
+/ both of my comment attemps break the cobol code but I cannot find how to actually make a comment in COBOL /
        *IS THIS PROPER FOR COMMENT*
 
